@@ -6,4 +6,4 @@ The generated file will look like this:
 ![Screenshot of the output](images/ScreenshotOutout.jpg)
 
 ## Prerequisite to use this program
-To use this program, you need python installed. You can download the current python version here(https://www.python.org/downloads/).
+To use this program, you need python installed. You can download the current python version [here](https://www.python.org/downloads/).
